@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BL/BL.csproj" Id="781c98a6-e652-494a-8a85-a52a4dc60abd" />
+  <Project Path="BookStore/BookStore.csproj" />
+  <Project Path="DAL/DAL.csproj" Id="83cd9db6-76a2-4bad-b891-6174384ce032" />
+  <Project Path="Models/Models.csproj" Id="1d03237d-e3ac-43a3-877c-7f94802e72ee" />
+</Solution>
